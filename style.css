@@ -1,0 +1,18 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: bolder;
+}
+
+a {
+    text-decoration: none;
+    background-color: orangered;
+    font-size: 20px;
+    font-weight: 900;
+    padding: 15px 20px;
+    border-radius: 5px;
+    color: white;
+}
