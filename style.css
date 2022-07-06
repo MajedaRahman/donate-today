@@ -4,7 +4,7 @@ body {
     padding: 0;
 }
 
-h1 {
+#title {
     font-size: 70px;
     font-weight: bolder;
     margin: 90px;
@@ -36,4 +36,42 @@ a {
     color: azure;
     text-align: center;
     padding: 120px 20px;
+}
+
+.headings {
+    font-size: 55px;
+    font-weight: 700;
+}
+
+.second-division {
+    text-align: center;
+    padding-top: 120px;
+}
+
+#taka {
+    display: flex;
+    margin-left: 290px;
+    margin-bottom: 40px;
+}
+
+.takaheading {
+    padding: 40px 30px;
+    background-color: silver;
+    margin: 15px;
+    color: ;
+    border-radius: 5px;
+}
+
+#takadesign {
+    background-color: rgb(246, 216, 221);
+    border: 3px solid rgb(233, 106, 106);
+    color: rgb(233, 106, 106);
+}
+
+#textfield {
+    text-decoration: underline;
+}
+
+#buttonfield {
+    display: block;
 }
