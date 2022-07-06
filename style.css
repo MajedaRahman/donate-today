@@ -75,3 +75,22 @@ a {
 #buttonfield {
     display: block;
 }
+
+.third-division {
+    text-align: center;
+    padding-top: 120px;
+    font-weight: bold;
+}
+
+#card {
+    display: flex;
+    padding: 30px;
+    margin: 20px;
+    text-align: left;
+}
+
+#card1 {
+    background-color: lightblue;
+}
+
+#
