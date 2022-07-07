@@ -19,7 +19,7 @@ p {
 
 a {
     text-decoration: none;
-    background-color: orangered;
+    background-color: #F75D59;
     font-size: 25px;
     font-weight: 900;
     padding: 15px 20px;
@@ -70,7 +70,15 @@ a {
 }
 
 #textfield {
-    text-decoration: underline;
+    text-decoration: none;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    width: 850px;
+    margin: 40px 0 50px;
+    font-size: 20px;
+    text-align: center;
+    padding-bottom: 10px;
 }
 
 #buttonfield {
@@ -156,5 +164,5 @@ footer {
     height: ;
     text-align: center;
     margin-top: 140px;
-    padding: 30px 30px 20px;
+    padding: 20px 30px 20px;
 }
