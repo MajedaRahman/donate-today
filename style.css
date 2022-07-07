@@ -112,3 +112,49 @@ a {
     height: 500px;
     border-radius: 5px;
 }
+
+.fifth-division {
+    text-align: center;
+    padding-top: 20px;
+}
+
+form {
+    background-color: #FFE4E1;
+    padding: 80px 100px 60px;
+    width: 680px;
+    height: 70px;
+    margin-left: 300px;
+    margin-bottom: 60px;
+}
+
+#email-but {
+    height: 43px;
+    width: 260px;
+    padding: 3px 20px;
+    margin: 9px 0 30px 0px;
+    border-radius: 7px;
+    font-size: 18px;
+    background-color: #C0C0C0;
+    border: 0;
+}
+
+#sub-but {
+    height: 49px;
+    width: 150px;
+    padding: 3px 30px;
+    font-size: 18px;
+    color: aliceblue;
+    background-color: #F75D59;
+    border: 0;
+    border-radius: 0px 5px 5px 0;
+    margin: -30px;
+}
+
+footer {
+    background-color: black;
+    width: ;
+    height: ;
+    text-align: center;
+    margin-top: 140px;
+    padding: 30px 30px 20px;
+}
