@@ -4,13 +4,6 @@ body {
     padding: 0;
 }
 
-#title {
-    font-size: 70px;
-    font-weight: bolder;
-    margin: 90px;
-    margin-bottom: 0;
-}
-
 p {
     padding-bottom: 30px;
     font-size: 20px;
@@ -25,6 +18,13 @@ a {
     padding: 15px 20px;
     border-radius: 5px;
     color: azure;
+}
+
+#title {
+    font-size: 70px;
+    font-weight: bolder;
+    margin: 90px;
+    margin-bottom: 0;
 }
 
 .header {
@@ -49,13 +49,13 @@ a {
     padding-top: 120px;
 }
 
-#taka {
+#donation-list {
     display: flex;
     margin-left: 290px;
     margin-bottom: 40px;
 }
 
-.takaheading {
+.donation-list-heading {
     padding: 40px 30px;
     background-color: silver;
     margin: 15px;
@@ -63,7 +63,7 @@ a {
     border-radius: 5px;
 }
 
-#takadesign {
+#dlh-design {
     background-color: rgb(246, 216, 221);
     border: 3px solid rgb(233, 106, 106);
     color: rgb(233, 106, 106);
@@ -135,7 +135,7 @@ form {
     margin-bottom: 60px;
 }
 
-#email-but {
+#email-button {
     height: 43px;
     width: 260px;
     padding: 3px 20px;
@@ -146,7 +146,7 @@ form {
     border: 0;
 }
 
-#sub-but {
+#sub-button {
     height: 49px;
     width: 150px;
     padding: 3px 30px;
